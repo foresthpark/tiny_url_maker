@@ -18,9 +18,9 @@
 <table><tr><td valign="top" width="50%">
 
 ### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<div align="center">   
 <img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.0QllFvplOYzuYSl2Dw47SAHaHa%26pid%3DApi&f=1" alt="Next JS" height="50" />  
+  <img style="margin: 10px" src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.png" alt="React" height="50" /> 
 </div>
 
 </td><td valign="top" width="50%">
@@ -31,7 +31,8 @@
 <img style="margin: 10px" src="https://snaplogic-h.s3.amazonaws.com/uploads/snap/image/122/Amazon-DynamoDB-1438723482.png" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://www.quantilus.com/wp-content/uploads/2018/01/aws-api-gateway-icon.png" alt="AWS" height="50" />  
   <img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_CloudFront-512.png" alt="AWS" height="50" />  
-  <img style="margin: 10px" src="https://support.blueconic.com/hc/article_attachments/115009897985/preview.png" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://support.blueconic.com/hc/article_attachments/115009897985/preview.png" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://cloudpack.media/wp-content/uploads/2020/01/icon_AWS-Route53.png" alt="AWS" height="50" />  
 </div>
 
 </td>
@@ -40,6 +41,7 @@
 
 ### - Frontend
 - NextJs
+- Tailwind CSS
 
 ### - Backend
 - Lambda

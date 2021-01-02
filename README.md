@@ -50,12 +50,12 @@
 - Route 53
 - Cloudfront
 - S3
-
-<br/>  
+<br/> 
 
 ### ➽ What did I learn? ❓
 - Least privilege appraoch to AWS service access management
 - Solving API Gateway CORS issues
+<br/> 
 
 ### ➽ Demo & Current Build Status
 - v0.1

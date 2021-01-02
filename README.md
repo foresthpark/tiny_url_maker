@@ -1,12 +1,14 @@
+### ➽ What is this?
+### - Serverless URL Shortener
+- Creates a random shortened URL that redirects you to the registered original URL  
+<br/>
+
 ### ➽ Why did I build this?  
 - Practice AWS Serverless tech such as DynamoDB, Lambda, API Gateway, Cloudfront, etc  
 - Practice Tailwind CSS  
 - Practice NextJS static website generation  
 <br/>  
 
-### ➽ What is this?
-- Creates a random shortened URL that redirects you to the registered original URL  
-<br/>
 
 ### ➽ What are the technologies used?
 <table><tr><td valign="top" width="50%">

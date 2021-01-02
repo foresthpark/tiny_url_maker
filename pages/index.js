@@ -114,7 +114,9 @@ export default function Home() {
               : "bg-blue-100 flex justify-center items-center w-5/6 px-2 mb-5 h-12 rounded-b-xl shadow-md"
           }
         >
-          <div className="w-1/2 text-center px-3">{urlObj.fullUrl}</div>
+          <div className="w-1/2 text-center px-3 truncate">
+            {urlObj.fullUrl}
+          </div>
           <div className="w-1/3 text-center">{urlObj.shortUrl}</div>
           <div className="w-1/5 text-center">
             <button
@@ -137,7 +139,9 @@ export default function Home() {
               : "bg-blue-100 flex justify-center items-center w-5/6 px-2 h-12 "
           }
         >
-          <div className="w-1/2 text-center px-3">{urlObj.fullUrl}</div>
+          <div className="w-1/2 text-center px-3 truncate">
+            {urlObj.fullUrl}
+          </div>
           <div className="w-1/3 text-center">{urlObj.shortUrl}</div>
           <div className="w-1/5 text-center">
             <button

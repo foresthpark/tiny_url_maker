@@ -36,6 +36,16 @@
 
 <br/>  
 
+### - Frontend
+- NextJs
+
+### - Backend
+- Lambda
+- API Gateway
+- DynamoDB
+- Route 53
+- Cloudfront
+- S3
 
 ### ➽ Demo & Current Build Status
 - v0.1

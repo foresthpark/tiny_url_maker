@@ -53,6 +53,10 @@
 
 <br/>  
 
+### ➽ What did I learn? ❓
+- Least privilege appraoch to AWS service access management
+- Solving API Gateway CORS issues
+
 ### ➽ Demo & Current Build Status
 - v0.1
 - Check out the [demo here](https://tinyurl.forestparkdev.ca/)

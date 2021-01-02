@@ -34,8 +34,6 @@
 </tr>
 </table>  
 
-<br/>  
-
 ### - Frontend
 - NextJs
 
@@ -46,6 +44,8 @@
 - Route 53
 - Cloudfront
 - S3
+
+<br/>  
 
 ### ➽ Demo & Current Build Status
 - v0.1

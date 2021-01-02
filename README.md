@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### ➽ Why did I build this?  
+- Practice AWS Serverless tech such as DynamoDB, Lambda, API Gateway, Cloudfront, etc  
+- Practice Tailwind CSS  
+- Practice NextJS static website generation  
+<br/>  
 
-## Getting Started
+### ➽ What is this?
+- Creates a random shortened URL that redirects you to the registered original URL  
+<br/>
 
-First, run the development server:
+### ➽ What are the technologies used?
+<table><tr><td valign="top" width="33%">
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.0QllFvplOYzuYSl2Dw47SAHaHa%26pid%3DApi&f=1" alt="Next JS" height="50" />  
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+</td><td valign="top" width="50%">
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://www.developmentlabs.com/wp-content/uploads/2018/03/AWSLambda.png" alt="Lambda" height="50" />  
+<img style="margin: 10px" src="https://snaplogic-h.s3.amazonaws.com/uploads/snap/image/122/Amazon-DynamoDB-1438723482.png" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://www.quantilus.com/wp-content/uploads/2018/01/aws-api-gateway-icon.png" alt="AWS" height="50" />  
+  <img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_CloudFront-512.png" alt="AWS" height="50" />  
+  <img style="margin: 10px" src="https://support.blueconic.com/hc/article_attachments/115009897985/preview.png" alt="AWS" height="50" />  
+</div>
 
-## Learn More
+</td><td valign="top" width="50%">
+</td></tr></table>  
 
-To learn more about Next.js, take a look at the following resources:
+<br/>  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### ➽ Demo & Current Build Status
+- v0.1
+- Check out the [demo here](https://tinyurl.forestparkdev.ca/)

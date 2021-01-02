@@ -9,7 +9,7 @@
 <br/>
 
 ### ➽ What are the technologies used?
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -18,8 +18,6 @@
 </div>
 
 </td><td valign="top" width="50%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -30,8 +28,9 @@
   <img style="margin: 10px" src="https://support.blueconic.com/hc/article_attachments/115009897985/preview.png" alt="AWS" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>  
 
